@@ -1,7 +1,7 @@
-# My-Own-Dictionary-in-Pyhton
+# My Own Dictionary in Pyhton
 # Dictionary with json.file 
 
-A simple dictionary with their own definition.  
+A simple dictionary with their own definition..
 
 
 # Program O/P
