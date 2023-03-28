@@ -1,7 +1,5 @@
-# Library Management System (LMS)
-
-from tkinter import *
-# from PIL import ImageTk,Image
+
+from tkinter import *
 
 # import json
 
